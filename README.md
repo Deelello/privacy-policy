@@ -36,3 +36,7 @@
   <p>Senast uppdaterad: [Datum]</p>
 </body>
 </html>
+<hr>
+<p style="text-align:center; font-size:0.9em; color:gray;">
+  &copy; 2026 [Kompis]. Alla rättigheter förbehållna.
+</p>
