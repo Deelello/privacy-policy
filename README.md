@@ -13,7 +13,7 @@
 </head>
 <body>
   <h1>Integritetspolicy för [Kompis]</h1>
-  <p>Denna integritetspolicy förklarar hur vi samlar in, använder och skyddar din information när du använder vår app [Din App/Projekt].</p>
+  <p>Denna integritetspolicy förklarar hur vi samlar in, använder och skyddar din information när du använder vår app [Kompis].</p>
 
   <h2>1. Information vi samlar in</h2>
   <p>Vi samlar endast in information som är nödvändig för appens funktioner, t.ex. anonym statistik, inställningar och tekniska uppgifter som hjälper oss förbättra appen.</p>
@@ -33,7 +33,7 @@
   <h2>6. Kontakt</h2>
   <p>Om du har frågor om denna integritetspolicy, kontakta oss på: <a href="mailto:elias-roy@hotmail.com">elias-roy@hotmail.com</a></p>
 
-  <p>Senast uppdaterad: [Datum]</p>
+  <p>Senast uppdaterad: [2026-02-26]</p>
 </body>
 </html>
 <hr>
