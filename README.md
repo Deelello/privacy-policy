@@ -345,3 +345,71 @@ Lämna klagomål till Integritetsskyddsmyndigheten
 7. Datasäkerhet
 
 Vi använder rimliga tekniska och organisatoriska säkerhetsåtgärder.
+
+
+
+INTEGRITETSPOLICY (GDPR)
+1. Personuppgiftsansvarig
+
+Kompis
+Registrerad i Skövde
+E-post: [kontakt@dinmail.se
+]
+
+2. Vilka uppgifter vi behandlar
+
+Namn
+
+Telefonnummer
+
+E-postadress
+
+Låneinformation
+
+Transaktionsstatus
+
+Enhetsinformation
+
+Vi samlar inte in bankkontonummer eller kortuppgifter.
+
+3. Ändamål
+
+Vi behandlar personuppgifter för att:
+
+Tillhandahålla tjänsten
+
+Skicka notifieringar
+
+Förbättra funktionalitet
+
+Uppfylla rättsliga krav
+
+4. Rättslig grund
+
+Behandling sker med stöd av:
+
+Avtal
+
+Samtycke
+
+Rättslig förpliktelse
+
+5. Lagring
+
+Personuppgifter lagras inom EU/EES.
+
+Uppgifter sparas så länge kontot är aktivt eller enligt lagkrav.
+
+6. Dina rättigheter
+
+Du har rätt att:
+
+Begära registerutdrag
+
+Få felaktiga uppgifter rättade
+
+Begära radering
+
+Begränsa behandling
+
+Lämna klagomål till Integritetsskyddsmyndigheten
