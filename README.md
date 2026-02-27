@@ -38,5 +38,122 @@
 </html>
 <hr>
 <p style="text-align:center; font-size:0.9em; color:gray;">
+   ANVÄNDARVILLKOR
+
+Senast uppdaterad: [2026-02-27]
+
+Välkommen till [Kompis] (“Plattformen”), som tillhandahålls av [Kompis AB], org.nr [elias majdalany].
+
+Genom att använda Plattformen accepterar du dessa villkor.
+
+⸻
+
+1. Plattformens syfte
+
+Plattformen är en teknisk tjänst som möjliggör för privatpersoner att ingå låneavtal direkt med varandra.
+
+Plattformen:
+	•	är inte kreditgivare
+	•	är inte låntagare
+	•	är inte part i låneavtal
+	•	garanterar inte betalning
+	•	ansvarar inte för användares betalningsförmåga
+
+Alla låneavtal ingås uteslutande mellan användare.
+
+⸻
+
+2. Avtal mellan användare
+
+När ett lån registreras via Plattformen uppstår ett avtal direkt mellan långivare och låntagare.
+
+[Kompis AB] är inte part i avtalet och ansvarar inte för:
+	•	återbetalning
+	•	dröjsmål
+	•	ekonomisk förlust
+	•	tvister mellan användare
+
+⸻
+
+3. Avgift
+
+Plattformen tar ut en tjänsteavgift om 1,5 % av lånebeloppet vid genomfört lån.
+
+Avgiften avser tillgång till den tekniska tjänsten och påverkar inte äganderätten till fordran.
+
+Plattformen har ingen rätt till lånebeloppet eller framtida betalningar mellan användare.
+
+⸻
+
+4. Betalningar
+
+Betalningar sker direkt mellan användare via extern betaltjänst (exempelvis Swish eller banköverföring).
+
+Plattformen:
+	•	förvarar inte användares medel
+	•	hanterar inte klientmedel
+	•	agerar inte betalinstitut
+
+⸻
+
+5. Utebliven betalning
+
+Vid utebliven betalning kan långivaren via Plattformen generera dokumentation, såsom betalningskrav i PDF-format.
+
+Plattformen:
+	•	skickar inte inkassokrav
+	•	bedriver inte inkassoverksamhet
+	•	företräder inte användare juridiskt
+	•	ansöker inte om betalningsföreläggande
+
+Eventuell indrivning sker av långivaren själv eller genom extern aktör.
+
+⸻
+
+6. Tvister
+
+Tvister rörande lån ska hanteras mellan berörda användare.
+
+Om ärende överlämnas till myndighet eller domstol är det fordringsägaren (långivaren) som är part.
+
+Plattformen kan i förekommande fall tillhandahålla teknisk dokumentation eller loggar.
+
+⸻
+
+7. Ansvarsbegränsning
+
+Plattformen ansvarar inte för:
+	•	ekonomisk förlust
+	•	indirekta skador
+	•	utebliven betalning
+	•	användares avtalsbrott
+
+Användning av tjänsten sker på egen risk.
+
+⸻
+
+8. Ändringar av villkor
+
+Plattformen har rätt att uppdatera dessa villkor. Uppdaterade villkor publiceras i appen och/eller på webbplatsen.
+
+⸻
+
+9. Tillämplig lag
+
+Dessa villkor regleras av svensk lag.
+
+Tvist som inte kan lösas mellan parter kan prövas av svensk domstol.
+
+⸻
+
+🔒 EXTRA SKYDD (kan läggas till)
+
+Du kan även lägga till detta stycke:
+
+⸻
+
+10. Ingen finansiell rådgivning
+
+Plattformen tillhandahåller inte finansiell rådgivning eller kreditbedömning. Användare ansvarar själva för att bedöma risk innan lån ingås.
   &copy; 2026 [Kompis]. Alla rättigheter förbehållna.
 </p>
