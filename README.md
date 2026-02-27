@@ -157,3 +157,191 @@ Du kan även lägga till detta stycke:
 Plattformen tillhandahåller inte finansiell rådgivning eller kreditbedömning. Användare ansvarar själva för att bedöma risk innan lån ingås.
   &copy; 2026 [Kompis]. Alla rättigheter förbehållna.
 </p>
+
+
+
+ANVÄNDARVILLKOR
+
+Senast uppdaterad: [2026-02-27]
+
+1. Om tjänsten
+
+Denna app (“Tjänsten”) tillhandahålls av [Kompis AB], org.nr [XXXXXX-XXXX], med säte i Sverige.
+
+Tjänsten möjliggör att privatpersoner kan:
+
+Skapa låneförfrågningar
+
+Acceptera lån
+
+Registrera återbetalningar
+
+Använda externa betalappar som exempelvis Swish för överföringar
+
+Vi är inte en bank, kreditgivare eller finansiellt institut. Vi förmedlar inte pengar och hanterar inga klientmedel.
+
+2. Användarkrav
+
+För att använda Tjänsten måste du:
+
+Vara minst 18 år
+
+Vara folkbokförd i Sverige
+
+Ha ett giltigt mobilnummer
+
+Lämna korrekta uppgifter
+
+Du ansvarar för att informationen du anger är korrekt.
+
+3. Avtal mellan användare
+
+Alla lån som registreras i appen är ett privat avtal mellan två användare.
+
+[kompis AB]:
+
+Är inte part i låneavtalet
+
+Garanterar inte återbetalning
+
+Ansvarar inte för utebliven betalning
+
+Appen fungerar endast som dokumentationsverktyg.
+
+4. Betalningar
+
+Betalningar sker utanför Tjänsten via tredjepartsappar, exempelvis Swish.
+
+Vi:
+
+Hanterar inga pengar
+
+Sparar inga bankuppgifter
+
+Tar inget ansvar för betalningssystemets funktion
+
+Eventuella avgifter från banker eller betalappar ansvarar användaren själv för.
+
+5. Påminnelser och Inkasso
+
+Tjänsten kan erbjuda:
+
+Automatiska betalningspåminnelser
+
+Delning av krav via SMS eller e-post
+
+Det är alltid användarens ansvar att följa svensk lag vid indrivning.
+
+Tjänsten utgör inte juridisk rådgivning.
+
+6. Avgifter
+
+[Om gratis]
+Tjänsten är för närvarande kostnadsfri.
+
+[Om avgift]
+Eventuella avgifter framgår tydligt innan betalning.
+
+7. Ansvarsbegränsning
+
+Vi ansvarar inte för:
+
+Förlorade pengar
+
+Utebliven återbetalning
+
+Tvister mellan användare
+
+Indirekta ekonomiska skador
+
+Användning sker på egen risk.
+
+8. Avstängning
+
+Vi förbehåller oss rätten att:
+
+Stänga av användare som bryter mot villkoren
+
+Radera konton vid missbruk
+
+9. Ändringar
+
+Vi kan uppdatera villkoren. Fortsatt användning innebär godkännande av nya villkor.
+
+INTEGRITETSPOLICY (GDPR)
+
+Personuppgiftsansvarig:
+[Kompis AB]
+
+1. Vilka uppgifter vi samlar in
+
+Vi kan behandla:
+
+Namn
+
+Telefonnummer
+
+E-post
+
+Låneinformation
+
+Transaktionsstatus
+
+Enhetsinformation
+
+Vi samlar inte in bankkontonummer.
+
+2. Ändamål
+
+Vi behandlar uppgifter för att:
+
+Tillhandahålla tjänsten
+
+Skicka notiser
+
+Förbättra funktionalitet
+
+Uppfylla rättsliga krav
+
+3. Rättslig grund
+
+Behandlingen baseras på:
+
+Avtal (för att leverera tjänsten)
+
+Samtycke (för notifieringar)
+
+Rättslig förpliktelse
+
+4. Lagringstid
+
+Uppgifter sparas så länge kontot är aktivt.
+Efter radering sparas viss information enligt bokföringslagen.
+
+5. Delning av uppgifter
+
+Vi delar inte personuppgifter med tredje part, förutom:
+
+Hostingleverantörer
+
+Tekniska tjänsteleverantörer
+
+Myndigheter när lagen kräver det
+
+6. Dina rättigheter
+
+Du har rätt att:
+
+Begära registerutdrag
+
+Få fel rättade
+
+Begära radering
+
+Begränsa behandling
+
+Lämna klagomål till Integritetsskyddsmyndigheten
+
+7. Datasäkerhet
+
+Vi använder rimliga tekniska och organisatoriska säkerhetsåtgärder.
