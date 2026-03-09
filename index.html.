@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>Integritetspolicy</title>
+</head>
+<body>
+  <h1>Integritetspolicy</h1>
+  <p>Detta är integritetspolicyn för [Din App/Projekt].</p>
+
+  <h2>Vilka data vi samlar in</h2>
+  <p>Vi samlar in endast den information som behövs för appens funktionalitet, t.ex. anonym statistik eller användarinställningar.</p>
+
+  <h2>Hur vi använder data</h2>
+  <p>Dina data används endast för att förbättra appen och aldrig säljs till tredje part.</p>
+
+  <h2>Kontakta oss</h2>
+  <p>Om du har frågor om denna policy, kontakta oss på: [din e-post]</p>
+</body>
+</html>
